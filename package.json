@@ -1,0 +1,23 @@
+{
+  "name": "fdoc_5-rahulraina711",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc_5-rahulraina711.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc_5-rahulraina711/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc_5-rahulraina711#readme",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
